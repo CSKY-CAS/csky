@@ -35,8 +35,8 @@ https://pan.baidu.com/s/1Ki5wXBmdT7j4_1tgXUUysQ
 2018年计算机考研408历年真题2009-2018下载免费下载
 计算机考研真题下载2009~2018含答案
 下载
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/CSKY-CAS/csky/blob/master/%E7%BA%A2%E5%8C%85%E7%A0%81.jpg"  width="300" height="360" ></div>
 
-<figure class="half">
-    <img src="https://github.com/CSKY-CAS/csky/blob/master/%E7%BA%A2%E5%8C%85%E7%A0%81.jpg" width="200"/><img src="https://github.com/CSKY-CAS/csky/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E8%B5%8F.jpg" width="200"/>
-</figure>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/CSKY-CAS/csky/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E8%B5%8F.jpg" width="300" height="360" ></div>
+
 
