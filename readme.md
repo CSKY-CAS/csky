@@ -36,7 +36,8 @@ https://pan.baidu.com/s/1Ki5wXBmdT7j4_1tgXUUysQ
 计算机考研真题下载2009~2018含答案
 下载
 
-<figure class="half">
-    <img src="https://github.com/CSKY-CAS/csky/blob/master/%E7%BA%A2%E5%8C%85%E7%A0%81.jpg" width="300" lenth="300"><img src="https://github.com/CSKY-CAS/csky/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E8%B5%8F.jpg" width="300" lenth="300">
-</figure>
+<center class="half">
+    <img src="https://github.com/CSKY-CAS/csky/blob/master/%E7%BA%A2%E5%8C%85%E7%A0%81.jpg" width="200"/><img src="图片链接" width="200"/>
+    <img src="https://github.com/CSKY-CAS/csky/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E8%B5%8F.jpg" width="200"/>
+</center>
 
